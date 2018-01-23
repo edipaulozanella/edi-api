@@ -25,11 +25,11 @@
     ]
   ],
   "_from": "edi-api",
-  "_id": "edi-api@0.0.18",
+  "_id": "edi-api@0.0.19",
   "_inBundle": false,
   "_inCache": true,
   "_installable": true,
-  "_integrity": "sha1-mlfIPF8TW0YsDgH1EYKRKSMIZR8=",
+  "_integrity": "sha512-NLbooVrfRG0clC6y5BL5JIvku52RcxNuJhc96YYKAOFkWzjvbbWy5ChUUvZwDWz/xwpj9WmVOlN65rcISmXp2Q==",
   "_location": "/edi-api",
   "_nodeVersion": "6.2.1",
   "_npmOperationalInternal": {
@@ -56,11 +56,11 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/edi-api/-/edi-api-0.0.18.tgz",
-  "_shasum": "9a57c83c5f135b462c0e01f5118291292308651f",
+  "_resolved": "https://registry.npmjs.org/edi-api/-/edi-api-0.0.19.tgz",
+  "_shasum": "3b241263802f2992b93719d80ac0cfc3d7bc3d1a",
   "_shrinkwrap": null,
   "_spec": "edi-api",
-  "_where": "/Users/developer/projects/bktravas",
+  "_where": "/Users/developer/Downloads/teste",
   "author": {
     "name": "EDI"
   },
@@ -86,5 +86,5 @@
   "name": "edi-api",
   "optionalDependencies": {},
   "scripts": {},
-  "version": "0.0.18"
+  "version": "0.0.20"
 }
